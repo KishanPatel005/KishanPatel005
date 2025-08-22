@@ -3,7 +3,7 @@
 💻 **Full Stack Developer | Freelancer | IT Engineer**  
 🚀 Passionate about building scalable web apps, automations, and solving real-world problems with code.  
 
-📧 **Email:** [kishan7112@gmail.com](mailto:kishan7112@gmail.com)  
+📧 **Email:** [kishanwithtech@gmail.com](mailto:kishanwithtech@gmail.com)  
 🔗 **Portfolio:** [kishan.creativewebcrafters.site/portfolio](https://kishan.creativewebcrafters.site/portfolio)  
 💼 **LinkedIn:** [linkedin.com/in/kishanpatel-tech](https://linkedin.com/in/kishanpatel-tech)  
 🐦 **Twitter (X):** [@KISHANPATEL005](https://x.com/KISHANPATEL005)  
