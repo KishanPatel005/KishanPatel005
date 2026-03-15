@@ -62,14 +62,7 @@ _Aug 2023 – Feb 2024_
 - 🎓 **B.E. Information Technology** – Ahmedabad Institute of Technology (GTU) _(Expected Completion: 2026)_  
 - 🎓 **Diploma in IT** – LJ Polytechnic (GTU)  
 
----
-
-## 📊 GitHub Stats  
-
-![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishanPatel005&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanPatel005&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KishanPatel005&theme=tokyonight)  
-
+--- 
 ---
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
